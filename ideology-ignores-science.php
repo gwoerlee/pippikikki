@@ -18,7 +18,7 @@
 			<div id="left-column">
 
 				<h1>
-					When Ideology Ignores Science
+					When Ideology Ignores Science2
 				</h1>
 				<h2>
 					&copy;G.M. Woerlee, <?php $startYear = 2005; $thisYear  = date('Y');
