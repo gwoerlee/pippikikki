@@ -1,0 +1,16 @@
+<div id="navbox">
+<div id="navigation">
+<ul>
+<li><a href="index.php">HOME</a></li>
+<li><a href="https://anesthesiasoul.com/Forum/index.php">FORUM</a></li>
+<li><a href="http://www.anesthesiaweb.org">Anesthesia Facts</a></li>
+<li><a href="http://www.amazon.com/s/ref=nb_sb_noss_1?url=search-alias%3Dstripbooks&field-keywords=woerlee&rh=n%3A283155%2Ck%3Awoerlee">Books by G.M. Woerlee</a></li>
+</ul>
+</div>
+</div>
+
+<div id="titlebox">
+<div style="text-align:center;font:Verdana;font-size:4.0em;color:white;font-weight:normal;line-height:1em;">Near Death Experiences</div> 
+<div style="color:white;padding-top:8px;text-align:center;font-size:2.5em;font:Verdana;font-weight:normal;"><i>Is there a life after death?</i></div>
+</div>
+
